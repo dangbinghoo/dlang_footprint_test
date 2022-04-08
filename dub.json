@@ -1,0 +1,17 @@
+{
+	"authors": [
+		"playpeng"
+	],
+	"copyright": "Copyright © 2022, playpeng",
+	"dependencies": {
+		"asdf": "~>0.7.13"
+	},
+	"lflags": ["--as-needed"],
+	"dflags": ["-link-defaultlib-shared=false", "-Os"],
+	"dflags-ldc": [
+		"-linkonce-templates"
+	],
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "jsontest"
+}

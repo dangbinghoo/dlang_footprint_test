@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/jsontest
+jsontest.so
+jsontest.dylib
+jsontest.dll
+jsontest.a
+jsontest.lib
+jsontest-test-*
+*.exe
+*.o
+*.obj
+*.lst
